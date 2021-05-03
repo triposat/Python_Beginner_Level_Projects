@@ -16,6 +16,7 @@
 ### Steps to be performed:
    - pip install PyAutoGUI
    - Read more about [**PyAutoGUI**](https://pypi.org/project/PyAutoGUI/)
+_________________________
 
 <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Extension%20Changer/Extension_Changer.py"><img src="https://img.shields.io/badge/-EXTENSION CHANGER-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 
@@ -29,6 +30,8 @@
    - Then list all the items and start traversing one-by-one.
    - If file is found, rename the file extension.
  
+ _________________________
+ 
 <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Folder%20Files%20Name%20Changer/Folder_Files_Name_Changer.py"><img src="https://img.shields.io/badge/-FILES NAME CHANGER-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
@@ -40,6 +43,8 @@
    - Read more about [**OS**](https://cutt.ly/hbcDdIz)
    - Jump to the location where you want changes.
    - Like you want to change all the names of files contain extension ".JPG", select it.
+
+_________________________
 
 <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Gray%20Image/Image_Gray.py"><img src="https://img.shields.io/badge/-CHANGE IMAGE COLOUR-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 
