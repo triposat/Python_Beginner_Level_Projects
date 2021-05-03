@@ -86,7 +86,7 @@ ____________________________
 ### Steps to be performed:
    - pip install pytesseract
    - pip install Pillow
-   - Visit and Install [Tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
+   - Visit and Install [**Tesseract**](https://github.com/UB-Mannheim/tesseract/wiki)
    - Scroll down you will find the latest installers, you can choose for 32 bit or 64 bit.
    - Then Open Image in your system, and convert it to text.
 
