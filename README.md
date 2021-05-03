@@ -73,5 +73,6 @@ ____________________________
 
 ### Steps to be performed:
    - import random
+   - At first, Your move will be recorded and along with you Computer move recorded.
 
 ____________________________
