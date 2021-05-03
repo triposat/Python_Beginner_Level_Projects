@@ -100,5 +100,5 @@ ____________________________
 
 ### Steps to be performed:
    - First create a folder for your resultant files.
-   - All the files with extension ".pdf" will be moved to folder created.
+   - Like you want to move all the files with extension ".pdf", then files will be moved to folder created.
 ____________________________
