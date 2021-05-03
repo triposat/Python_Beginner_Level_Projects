@@ -28,3 +28,14 @@
    - The File which is to be changed, Jump to that location where file is present
    - Then list all the items and start traversing one-by-one
    - If file is found, rename the file extension
+ 
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Folder%20Files%20Name%20Changer/Folder_Files_Name_Changer.py"><img src="https://img.shields.io/badge/-FILES NAME CHANGER-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Folder%20Files%20Name%20Changer/Folder_Files_Name_Changer.py"><img src="https://cutt.ly/WbcShIN" /></a>
+</p>
+
+### Steps to be performed:
+   - import os
+   - Jump to the location where you want changes
+   - like you want to change all the names of files contain extension ".JPG", select it.
