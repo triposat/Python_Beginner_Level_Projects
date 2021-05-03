@@ -76,3 +76,18 @@ ____________________________
    - At first, Your move will be recorded and along with you Computer move recorded.
 
 ____________________________
+
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Image%20to%20Text/Image_To_Text.py"><img src="https://img.shields.io/badge/-GUESSING GAME WITH COMPUTER-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Image%20to%20Text/Image_To_Text.py"><img src="https://cutt.ly/KbcZ79j" /></a>
+</p>
+
+### Steps to be performed:
+   - pip install pytesseract
+   - pip install Pillow
+   - Visit and Install [Tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
+   - Scroll down you will find the latest installers, you can choose for 32 bit or 64 bit.
+   - Then Open Image, and convert it to text.
+
+____________________________
