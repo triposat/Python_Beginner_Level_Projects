@@ -16,7 +16,9 @@
 ### Steps to be performed:
    - pip install PyAutoGUI
    - Read more about [**PyAutoGUI**](https://pypi.org/project/PyAutoGUI/)
+ 
 _________________________
+
 
 <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Extension%20Changer/Extension_Changer.py"><img src="https://img.shields.io/badge/-EXTENSION CHANGER-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 
