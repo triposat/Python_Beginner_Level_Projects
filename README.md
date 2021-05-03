@@ -111,5 +111,5 @@ ____________________________
 
 ### Steps to be performed:
    - pip install PyPDF2
-   - [PyPDF2](https://pythonhosted.org/PyPDF2/) Documentation
+   - Must read [**PyPDF2**](https://pythonhosted.org/PyPDF2/) Documentation
 ____________________________
