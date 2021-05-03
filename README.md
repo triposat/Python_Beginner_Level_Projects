@@ -13,6 +13,6 @@
 <a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Control%20Mouse/Mouse_Control.py"><img src="https://cutt.ly/Kbx6Kln" /></a>
 </p>
 
-Steps to be performed:
-    - pip install PyAutoGUI
-    - Read more about [**PyAutoGUI**](https://pypi.org/project/PyAutoGUI/)
+### Steps to be performed:
+   - pip install PyAutoGUI
+   - Read more about [**PyAutoGUI**](https://pypi.org/project/PyAutoGUI/)
