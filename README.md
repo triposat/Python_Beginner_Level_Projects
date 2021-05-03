@@ -44,7 +44,7 @@ _________________________
    - import os
    - Read more about [**OS**](https://cutt.ly/hbcDdIz)
    - Jump to the location where you want changes.
-   - Like you want to change all the names of files contain extension ".JPG", select it.
+   - Like you want to change all the names of files contain extension ".JPG", select them.
 
 _________________________
 
