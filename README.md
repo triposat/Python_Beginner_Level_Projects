@@ -124,3 +124,14 @@ ____________________________
    - pip install pyzbar
    - Must read [**pyzbar**](https://pypi.org/project/pyzbar/) Documentation
 ____________________________
+
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Rotate%20PDF%20Pages/Rotating_Pdf_pages.py"><img src="https://img.shields.io/badge/-ROTATE PDF PAGES-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Rotate%20PDF%20Pages/Rotating_Pdf_pages.py"><img src="https://cutt.ly/EbcM4HH" /></a>
+</p>
+
+### Steps to be performed:
+   - pip install PyPDF2
+   - Must read [**PyPDF2**](https://pythonhosted.org/PyPDF2/) Documentation
+____________________________
