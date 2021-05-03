@@ -95,7 +95,7 @@ ____________________________
 <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/PC%20Cleaner/PC_Cleaner.py"><img src="https://img.shields.io/badge/-PC CLEANER-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/PC%20Cleaner/PC_Cleaner.py"><img src="https://cutt.ly/9bcCVl1" /></a>
+<a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/PC%20Cleaner/PC_Cleaner.py"><img src="https://cutt.ly/PbcVdzk" /></a>
 </p>
 
 ### Steps to be performed:
