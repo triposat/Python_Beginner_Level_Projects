@@ -62,3 +62,16 @@ _________________________
    - Reda about [**cv2.createCLAHE**](https://cutt.ly/xbcHLYw)
    - Read about [**cv2.imwrite**](https://cutt.ly/9bcH0t8)
    - Read the Image, Create Colour, Apply colour , and write the Image.
+
+____________________________
+
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Guessing%20Game/Guessing_Game_With_Computer.py"><img src="https://img.shields.io/badge/-GUESSING GAME WITH COMPUTER-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Guessing%20Game/Guessing_Game_With_Computer.py"><img src="https://cutt.ly/UbcZvji" /></a>
+</p>
+
+### Steps to be performed:
+   - import random
+
+____________________________
