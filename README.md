@@ -102,3 +102,14 @@ ____________________________
    - First create a folder for your resultant files.
    - Like you want to move all the files with extension ".pdf", then files will be moved to folder created.
 ____________________________
+
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/PDF%20Data%20Reader/PDF_data_Reader.py"><img src="https://img.shields.io/badge/-READ PDF DATA-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/PDF%20Data%20Reader/PDF_data_Reader.py"><img src="https://cutt.ly/bbcVC39" /></a>
+</p>
+
+### Steps to be performed:
+   - pip install PyPDF2
+   - [PyPDF2](https://pythonhosted.org/PyPDF2/) Documentation
+____________________________
