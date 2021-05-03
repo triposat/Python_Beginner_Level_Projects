@@ -40,3 +40,18 @@
    - Read more about [**OS**](https://cutt.ly/hbcDdIz)
    - Jump to the location where you want changes.
    - Like you want to change all the names of files contain extension ".JPG", select it.
+
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Gray%20Image/Image_Gray.py"><img src="https://img.shields.io/badge/-CHANGE IMAGE COLOUR-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Gray%20Image/Image_Gray.py"><img src="https://cutt.ly/kbcGj1h" /></a>
+</p>
+
+### Steps to be performed:
+   - pip install opencv-python
+   - import cv2
+   - Read about [cv2.imread](https://cutt.ly/hbcHnK6)
+   - Read about [cv2.cvtColor](https://cutt.ly/RbcHAI9)
+   - Reda about [cv2.createCLAHE](https://cutt.ly/xbcHLYw)
+   - Read about [cv2.imwrite](https://cutt.ly/9bcH0t8)
+   - Read the Image, Create Colour, Apply colour , and write the Image.
