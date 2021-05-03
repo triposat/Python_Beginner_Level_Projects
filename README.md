@@ -148,3 +148,14 @@ ____________________________
    - pip install PyQRCode
    - Must read [**PyQRCode**](https://pypi.org/project/PyQRCode/) Documentation
 ____________________________
+
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Transpose%20the%20Image/Image_Transpose.py"><img src="https://img.shields.io/badge/-TRANSPOSE IMAGE-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/Transpose%20the%20Image/Image_Transpose.py"><img src="https://cutt.ly/Fbc2r1z" /></a>
+</p>
+
+### Steps to be performed:
+   - pip install Pillow
+   - Must read [**Image.transpose**](https://www.geeksforgeeks.org/python-pil-image-transpose-method/) Documentation
+____________________________
