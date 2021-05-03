@@ -159,3 +159,9 @@ ____________________________
    - pip install Pillow
    - Must read [**Image.transpose**](https://www.geeksforgeeks.org/python-pil-image-transpose-method/) Documentation
 ____________________________
+
+<br/>
+<p align="center">
+<img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Python_Beginner_Level_Projects?style=for-the-badge&logo=github&logoColor=yellow"/>
+<img src="https://badges.pufler.dev/created/Iamtripathisatyam/Python_Beginner_Level_Projects?style=for-the-badge&logo=github&logoColor=yellow"/>
+</p>
