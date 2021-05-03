@@ -113,3 +113,14 @@ ____________________________
    - pip install PyPDF2
    - Must read [**PyPDF2**](https://pythonhosted.org/PyPDF2/) Documentation
 ____________________________
+
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/QR%20Code%20Scanner/QR_Code_Scanner.py"><img src="https://img.shields.io/badge/-QR CODE SCANNER-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/QR%20Code%20Scanner/QR_Code_Scanner.py"><img src="https://cutt.ly/lbcNdMO" /></a>
+</p>
+
+### Steps to be performed:
+   - pip install pyzbar
+   - Must read [**pyzbar**](https://pypi.org/project/pyzbar/) Documentation
+____________________________
