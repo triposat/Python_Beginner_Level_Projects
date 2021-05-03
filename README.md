@@ -50,8 +50,8 @@
 ### Steps to be performed:
    - pip install opencv-python
    - import cv2
-   - Read about [cv2.imread](https://cutt.ly/hbcHnK6)
-   - Read about [cv2.cvtColor](https://cutt.ly/RbcHAI9)
-   - Reda about [cv2.createCLAHE](https://cutt.ly/xbcHLYw)
-   - Read about [cv2.imwrite](https://cutt.ly/9bcH0t8)
+   - Read about [**cv2.imread**](https://cutt.ly/hbcHnK6)
+   - Read about [**cv2.cvtColor**](https://cutt.ly/RbcHAI9)
+   - Reda about [**cv2.createCLAHE**](https://cutt.ly/xbcHLYw)
+   - Read about [**cv2.imwrite**](https://cutt.ly/9bcH0t8)
    - Read the Image, Create Colour, Apply colour , and write the Image.
