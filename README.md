@@ -106,7 +106,7 @@ ____________________________
 <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/PDF%20Data%20Reader/PDF_data_Reader.py"><img src="https://img.shields.io/badge/-READ PDF DATA-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/PDF%20Data%20Reader/PDF_data_Reader.py"><img src="https://cutt.ly/bbcVC39" /></a>
+<a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/PDF%20Data%20Reader/PDF_data_Reader.py"><img src="https://cutt.ly/ebcB0tb" /></a>
 </p>
 
 ### Steps to be performed:
