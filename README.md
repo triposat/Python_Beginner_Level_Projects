@@ -146,5 +146,5 @@ ____________________________
    - pip install pyzbar
    - Must read [**pyzbar**](https://pypi.org/project/pyzbar/) Documentation
    - pip install PyQRCode
-   - Must read [**pyzbar**](https://pypi.org/project/PyQRCode/) Documentation
+   - Must read [**PyQRCode**](https://pypi.org/project/PyQRCode/) Documentation
 ____________________________
