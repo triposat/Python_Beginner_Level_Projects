@@ -91,3 +91,14 @@ ____________________________
    - Then Open Image in your system, and convert it to text.
 
 ____________________________
+
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/PC%20Cleaner/PC_Cleaner.py"><img src="https://img.shields.io/badge/-PC CLEANER-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/PC%20Cleaner/PC_Cleaner.py"><img src="https://cutt.ly/9bcCVl1" /></a>
+</p>
+
+### Steps to be performed:
+   - First create a folder for your resultant files.
+   - All the files with extension ".pdf" will be moved to folder created.
+____________________________
