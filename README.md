@@ -162,8 +162,9 @@ ____________________________
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects">Made with <img src="https://cutt.ly/lbllkDi" width="20px"> in India</a><h3/>
 
-<br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Python_Beginner_Level_Projects?style=for-the-badge&logo=github&logoColor=yellow"/>
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/Python_Beginner_Level_Projects?style=for-the-badge&logo=github&logoColor=yellow"/>
 </p>
+
+<p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
