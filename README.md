@@ -158,8 +158,6 @@ ____________________________
 ### Steps to be performed:
    - pip install Pillow
    - Must read [**Image.transpose**](https://www.geeksforgeeks.org/python-pil-image-transpose-method/) Documentation
-____________________________
+___________________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects">Made with <img src="https://cutt.ly/lbllkDi" width="20px"> in India</a><h3/>
-
-<p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
+<p>&copy; 2021 Satyam Tripathi</p>
