@@ -14,7 +14,7 @@ def move(foldername, files):
 
 
 files = os.listdir()
-create("Only C Programs")  # Create Folder for you files
+create("Only C Programs")  # Create Folder for your files
 C = ['.c']  # The folder only consist of files with extension .c
 Cs = [file for file in files if os.path.splitext(file)[1].lower() in C]
 # Move files to the new folder, only .c files will be moved
