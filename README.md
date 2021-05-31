@@ -28,9 +28,9 @@ _________________________
 
 ### Steps to be performed:
    - import os
-   - The File which is to be changed, Jump to that location.
-   - Then list all the items and start traversing one-by-one.
-   - If file is found, rename the file extension.
+   - The file which is to be changed, jumps to that location.
+   - Then list all the items and start traversing one by one.
+   - If the file is found, rename the file extension.
  
  _________________________
  
@@ -44,7 +44,7 @@ _________________________
    - import os
    - Read more about [**OS**](https://cutt.ly/hbcDdIz)
    - Jump to the location where you want changes.
-   - Like you want to change all the names of files contain extension ".JPG", select them.
+   - Like you want to change all the names of files that contain the extension ".JPG", select them.
 
 _________________________
 
@@ -61,7 +61,7 @@ _________________________
    - Read about [**cv2.cvtColor**](https://cutt.ly/RbcHAI9)
    - Reda about [**cv2.createCLAHE**](https://cutt.ly/xbcHLYw)
    - Read about [**cv2.imwrite**](https://cutt.ly/9bcH0t8)
-   - Read the Image, Create Colour, Apply colour , and write the Image.
+   - Read the Image, Create, color, Apply color, and write the Image.
 
 ____________________________
 
@@ -73,7 +73,7 @@ ____________________________
 
 ### Steps to be performed:
    - import random
-   - At first, Your move will be recorded and along with you Computer move recorded.
+   - At first, your move will be recorded and along with you, Computer moves recorded.
 
 ____________________________
 
@@ -87,8 +87,8 @@ ____________________________
    - pip install pytesseract
    - pip install Pillow
    - Visit and Install [**Tesseract**](https://github.com/UB-Mannheim/tesseract/wiki)
-   - Scroll down you will find the latest installers, you can choose for 32 bit or 64 bit.
-   - Then Open Image in your system, and convert it to text.
+   - Scroll down you will find the latest installers, you can choose 32 bit or 64 bit.
+   - Then open the Image in your system, and convert it to text.
 
 ____________________________
 
@@ -99,8 +99,8 @@ ____________________________
 </p>
 
 ### Steps to be performed:
-   - First create a folder for your resultant files.
-   - Like you want to move all the files with extension ".pdf", then files will be moved to folder created.
+   - First, create a folder for your resultant files.
+   - Like you want to move all the files with the extension ".pdf", then files will be moved to the folder created.
 ____________________________
 
 <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/PDF%20Data%20Reader/PDF_data_Reader.py"><img src="https://img.shields.io/badge/-READ PDF DATA-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
