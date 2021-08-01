@@ -88,18 +88,6 @@ ____________________________
    - Visit and Install [**Tesseract**](https://github.com/UB-Mannheim/tesseract/wiki)
    - Scroll down you will find the latest installers, you can choose 32 bit or 64 bit.
    - Then open the Image in your system, and convert it to text.
-
-____________________________
-
-<h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/PC%20Cleaner/PC_Cleaner.py"><img src="https://img.shields.io/badge/-PC CLEANER-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
-
-<p align="center">
-<a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/PC%20Cleaner/PC_Cleaner.py"><img src="https://cdn.icon-icons.com/icons2/544/PNG/512/Cleaner_icon-icons.com_53211.png" width="120"/></a>
-</p>
-
-### Steps to be performed:
-   - First, create a folder for your resultant files.
-   - Like you want to move all the files with the extension ".pdf", then files will be moved to the folder created.
 ____________________________
 
 <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Python_Beginner_Level_Projects/blob/main/Mini%20Projects/PDF%20Data%20Reader/PDF_data_Reader.py"><img src="https://img.shields.io/badge/-READ PDF DATA-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
